@@ -23,7 +23,7 @@ import javax.sql.DataSource;
 import org.everit.persistence.querydsl.support.QuerydslCallable;
 import org.everit.persistence.querydsl.support.QuerydslSupport;
 
-import com.mysema.query.sql.Configuration;
+import com.querydsl.sql.Configuration;
 
 /**
  * Implementation class of {@link QuerydslSupport}.
